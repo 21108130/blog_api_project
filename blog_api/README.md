@@ -117,9 +117,9 @@ python manage.py runserver
     "created_at": "2026-02-27T16:34:38.185087-06:00",
     "updated_at": "2026-02-27T16:34:38.185087-06:00"
 }
-![alt text](image.png)
-```
 
+```
+![alt text](image.png)
 ---
 
 ### GET `/api/posts/` — List All Blog Posts
@@ -144,9 +144,9 @@ python manage.py runserver
         "updated_at": "2026-02-27T16:43:23.692950-06:00"
     }
 ]
-![alt text](image-4.png)
-```
 
+```
+![alt text](image-4.png)
 ---
 
 ### GET `/api/posts/1/` — Get a Single Blog Post
@@ -223,9 +223,10 @@ When required fields are missing or blank:
         "content": ["This field is required."]
     }
 }
-<img width="622" height="369" alt="image" src="https://github.com/user-attachments/assets/9752ea0c-dc92-4616-b076-6d5d70d8c62e" />
+
 
 ```
+<img width="622" height="369" alt="image" src="https://github.com/user-attachments/assets/fb242d20-f309-4b48-b5aa-ce2b1dab9949" />
 
 ---
 
