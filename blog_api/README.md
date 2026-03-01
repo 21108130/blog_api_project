@@ -43,7 +43,7 @@ blog_api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/blog-api.git
+git clone https://github.com/21108130/blog_api_project.git
 cd blog-api
 ```
 
