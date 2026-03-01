@@ -223,6 +223,8 @@ When required fields are missing or blank:
         "content": ["This field is required."]
     }
 }
+<img width="622" height="369" alt="image" src="https://github.com/user-attachments/assets/9752ea0c-dc92-4616-b076-6d5d70d8c62e" />
+
 ```
 
 ---
